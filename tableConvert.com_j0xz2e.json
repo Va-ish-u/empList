@@ -1,0 +1,17 @@
+﻿[
+    {
+        "name": "raju",
+        "degree": "cse",
+        "designation": "proff"
+    },
+    {
+        "name": "ravi",
+        "degree": "aiml",
+        "designation": "hod"
+    },
+    {
+        "name": "ram",
+        "degree": "iot",
+        "designation": "asst"
+    }
+]
